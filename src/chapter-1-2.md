@@ -1,4 +1,4 @@
-# The Benefits of Using AI to Enhance Entrepreneurship
+
 
 ## 1\. Introduction
 

@@ -1,5 +1,4 @@
-Understanding the Tradeoffs of AI-Enhanced Entrepreneurship
-========================================================================================================================
+
 
 As artificial intelligence (AI) technology continues to evolve, it is important to evaluate its impact on office innovation. In this chapter, we will explore the tradeoffs of AI-enhanced entrepreneurship.
 

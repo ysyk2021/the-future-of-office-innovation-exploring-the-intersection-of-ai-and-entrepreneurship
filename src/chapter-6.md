@@ -1,5 +1,4 @@
-Chapter 6: Evaluating the Impact of AI on Office Innovation
-===========================================================
+
 
 As artificial intelligence (AI) technology continues to evolve, it is important to evaluate its impact on office innovation. In this chapter, we will explore the tradeoffs of AI-enhanced entrepreneurship and the importance of balancing human ingenuity with AI assistance.
 

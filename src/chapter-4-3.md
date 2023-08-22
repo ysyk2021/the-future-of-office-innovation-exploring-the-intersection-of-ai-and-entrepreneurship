@@ -1,4 +1,4 @@
-# Improving Workplace Safety and Security with AI CCTV and Access Control
+
 
 ## 1\. Introduction
 

@@ -1,4 +1,4 @@
-# Reducing Costs and Waste with AI-Enabled Inventory Management and Supply Chain Optimization
+
 
 ## 1\. Introduction
 
