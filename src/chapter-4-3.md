@@ -1,5 +1,4 @@
 
-
 ## 1\. Introduction
 
 In the context of office innovation, ensuring workplace safety and security is of paramount importance. Artificial intelligence (AI) has revolutionized surveillance systems by enabling advanced CCTV (Closed-Circuit Television) and access control solutions. This chapter explores how AI-powered CCTV and access control technologies enhance workplace safety, prevent security breaches, and create secure environments for entrepreneurs and their teams.

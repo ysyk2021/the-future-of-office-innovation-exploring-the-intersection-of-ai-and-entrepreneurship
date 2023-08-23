@@ -1,5 +1,4 @@
 
-
 As artificial intelligence (AI) technology continues to evolve, it is important to evaluate its impact on office innovation. In this chapter, we will explore the importance of balancing human ingenuity with AI assistance.
 
 Human Creativity and Problem-Solving Skills

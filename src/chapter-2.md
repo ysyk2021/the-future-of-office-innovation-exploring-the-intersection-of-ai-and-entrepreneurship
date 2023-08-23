@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) technology has the potential to transform office environments by enhancing productivity, improving customer service, and optimizing workflow. In this chapter, we will explore three types of AI technology that can be used for office innovation.
 
 Natural Language Processing (NLP) for Productivity Improvement

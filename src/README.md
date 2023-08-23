@@ -1,5 +1,4 @@
 
-
 The world of work is undergoing a significant transformation, driven by the rapid pace of technological change. One of the most significant drivers of this change is artificial intelligence (AI), which has the potential to revolutionize how we work, communicate, and collaborate.
 
 In this book, we'll explore the intersection of AI and entrepreneurship in the context of office innovation. We'll examine the latest trends and technologies that are shaping the future of work and discuss how entrepreneurs can leverage AI to drive growth, innovation, and sustainability.

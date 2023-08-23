@@ -1,5 +1,4 @@
 
-
 As artificial intelligence (AI) technology continues to evolve, it is important to evaluate its impact on office innovation. In this chapter, we will explore the tradeoffs of AI-enhanced entrepreneurship and the importance of balancing human ingenuity with AI assistance.
 
 Understanding the Tradeoffs of AI-Enhanced Entrepreneurship

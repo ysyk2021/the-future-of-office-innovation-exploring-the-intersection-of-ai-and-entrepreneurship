@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) technology has the potential to revolutionize office environments by enhancing productivity, improving customer service, and optimizing workflow. In this chapter, we will explore computer vision (CV) as a tool for workplace safety and security.
 
 What is Computer Vision?
