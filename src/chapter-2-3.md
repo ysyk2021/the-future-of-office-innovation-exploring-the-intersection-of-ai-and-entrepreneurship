@@ -1,5 +1,4 @@
-Chapter: Computer Vision (CV) for Workplace Safety and Security
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the applications of Computer Vision (CV) in office innovation, specifically focusing on its role in enhancing workplace safety and security. CV, a field of artificial intelligence, enables computers to perceive and interpret visual information, making it a powerful tool for monitoring, analyzing, and improving safety measures in the workplace.
 

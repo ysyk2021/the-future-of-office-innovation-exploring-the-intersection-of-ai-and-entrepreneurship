@@ -1,5 +1,4 @@
-Chapter: Balancing Human Ingenuity with AI Assistance
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the intersection of artificial intelligence (AI) and entrepreneurship in the context of office innovation. We discuss the importance of striking a balance between human ingenuity and AI assistance to harness the full potential of both and drive future advancements.
 

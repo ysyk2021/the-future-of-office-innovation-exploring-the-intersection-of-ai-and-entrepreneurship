@@ -1,5 +1,4 @@
-Chapter: Understanding the Tradeoffs of AI-Enhanced Entrepreneurship
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the tradeoffs that come with adopting AI in entrepreneurship, specifically in the context of office innovation. While AI offers numerous benefits, it is crucial for entrepreneurs to understand and navigate the potential tradeoffs associated with its implementation.
 

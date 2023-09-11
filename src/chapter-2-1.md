@@ -1,5 +1,4 @@
-Chapter: Natural Language Processing (NLP) for Productivity Improvement
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the applications of Natural Language Processing (NLP) in office innovation and its potential to enhance productivity. NLP, a branch of AI, focuses on the interaction between computers and human language, enabling machines to understand, interpret, and generate human-like text.
 
